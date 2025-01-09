@@ -43,7 +43,7 @@ The components
 
 ![The input bar](./image.png)
 
-![The curreny selectors](./currency.jpg)
+![The curreny selectors](./slectorss.jpg)
 
 ![The convert button](./button.jpg)
 
