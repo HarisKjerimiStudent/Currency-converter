@@ -53,3 +53,6 @@ Maintainer - Haris Kjerimi - 210302156@student.ius.edu.ba
 
 ## License
 This project is licensed under the MIT License.
+
+# Improvements for the future
+In the future the C# is going to be used to convert it to an online coverter.
